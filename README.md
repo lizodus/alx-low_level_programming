@@ -1,1 +1,1 @@
-C programming exercices.
+C programming exercises.
