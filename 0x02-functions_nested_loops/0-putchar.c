@@ -2,8 +2,7 @@
 
 /**
  * _putchar - writes the character to stdout
- * @c: The character to print
- *
+ *  main - function that prints _putchar
  * Return: On success 0.
  */
 int main(void)
