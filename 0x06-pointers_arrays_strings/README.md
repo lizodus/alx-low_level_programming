@@ -1,1 +1,2 @@
-ReadMe on More pointers, arrays and strings.
+ReadMe:
+More on pointers, arrays and strings.
