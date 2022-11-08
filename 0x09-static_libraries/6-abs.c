@@ -1,10 +1,15 @@
 #include "main.h"
+#include <stdio.h>
 /**
-* _abs - a function that computes the absolute value of an integer
-* @ab: integer input
-* Return: absolute value of ab
-*/
-int _abs(int ab)
+ * _abs - computes the absolute value of an integer
+ * @n: The int to be operated upon
+ * Return: returns an unsigned int value to calling function
+ */
+int _abs(int n)
 {
-return (ab * ((ab > 0) - (ab < 0)));
+	if (n >= 0)
+	{
+		return (n);
+	}
+	return (-n);
 }
